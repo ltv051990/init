@@ -1,0 +1,4 @@
+#cat /etc/issue
+#Debian GNU/Linux 9 \n \l
+#cat /etc/debian_version
+#9.3

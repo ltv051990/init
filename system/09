@@ -1,0 +1,5 @@
+#!/bin/bash
+#grep sshd /var/log/messages
+#last
+#w
+who
